@@ -26,3 +26,8 @@ Instalación de utilidades: `pkg install curl python dnsutils inetutils iproute2
 - `26_servidor_http_local.sh` escucha únicamente en `127.0.0.1`, no en la red Wi-Fi.
 - No ejecutes scripts que no entiendas. Revisa el contenido antes de usarlos.
 - Android puede limitar información de procesos, memoria, batería y red.
+
+## Aplicaciones que debes tener instaladas 
+
+- Termux
+- Termux API
